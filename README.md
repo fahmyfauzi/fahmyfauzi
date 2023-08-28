@@ -1,8 +1,7 @@
 ### Hi! 👋 I'm Fahmy Fauzi Alvianda
 
 
-A recent graduate with a GPA of 3.48 who has an interest in IT and programming. I am a passionate programmer and skilled in developing using PHP and Laravel as the main framework. I am always eager to expand my knowledge and happy to face new challenges in the world of IT and various programming languages.
-
+A fresh graduate who has an interest in IT and programming. I am a Web Developer who is passionate and skilled in developing web using PHP with Laravel framework as the main framework. I have mastered basic to advanced concepts in Laravel, including route creation, database management using Eloquent ORM, interface creation with Blade templating engine, and implementation of security features. I also have experience in building RESTful API-based applications using Laravel to connect the frontend and backend. I am always eager to expand my knowledge in the IT field so that I can deliver the best results in every project I work on.
 
 - 🌱 I’m currently learning to deepen php with laravel and livewire frameworks.
 - 💬 Feel free to ask me about web development or Laravel
