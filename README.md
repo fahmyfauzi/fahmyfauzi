@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Fahmy Fauzi Alvianda
 
 
-A fresh graduate who has an interest in IT and programming. I am a Web Developer who is passionate and skilled in developing web using PHP with Laravel framework as the main framework. I have mastered basic to advanced concepts in Laravel, including route creation, database management using Eloquent ORM, interface creation with Blade templating engine, and implementation of security features. I also have experience in building RESTful API-based applications using Laravel to connect the frontend and backend. I am always eager to expand my knowledge in the IT field so that I can deliver the best results in every project I work on.
+I am a recent graduate with a passion for IT and programming, with a primary focus on backend development using Node.js, Express, and MongoDB. I have mastered various concepts, from basic to advanced, including server creation, route management, and using Express as a framework. In addition, I also have expertise in designing and managing databases with MongoDB. Besides focusing on Node.js, Express, and MongoDB technologies only. I also have experience in web development with PHP and Laravel. As a Web Developer, I have gained valuable knowledge in using Laravel as a framework. I understand route creation, database management with Eloquent ORM, view creation using Blade templating engine, and implementation of security features. I am always eager to continue expanding my knowledge in the IT field to deliver the best results in every project.
 
 - 🌱 I’m currently learning to deepen php with laravel and livewire frameworks.
 - 💬 Feel free to ask me about web development or Laravel
