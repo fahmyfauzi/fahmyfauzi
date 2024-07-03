@@ -1,11 +1,10 @@
 ### Hi! 👋 I'm Fahmy Fauzi Alvianda
 
 
-A recent graduate with an interest in IT and programming, with a primary focus on backend development using Node.js, Express, and MongoDB. I have mastered various concepts, from basic to advanced, including server creation, route management, and using Express as a framework. In addition, I also have expertise in designing and managing databases with MongoDB. Besides focusing on Node.js, Express, and MongoDB technologies only. I also have experience in web development with PHP and Laravel. I am always eager to continue expanding my knowledge in IT and programming to deliver the best results in every project.
+I am an Informatics Engineering graduate who has a high interest in the IT field, especially as a web developer. I have experience in web development using PHP with Laravel framework. I have contributed to several web development projects that involve implementing slicing from Figma to code, creating new features, maintaining code, debugging, and collaborating with the team. I am always eager to continue expanding my knowledge in IT and programming, in order to deliver the best results in every project.
 
-- 🌱 I’m currently learning to deepen javascript with expressjs and mongodb.
 - 📫 How to reach me: fahmyfauzii@gmail.com
-- 📄 Know about my experiences [CV-Fahmy]([https://drive.google.com/drive/folders/1VqP6U9EYCxD6S0ayugP_YKb-GjzCZmW3)
+- 📄 Know about my experiences [CV-Fahmy](https://drive.google.com/drive/folders/1VqP6U9EYCxD6S0ayugP_YKb-GjzCZmW3](https://drive.google.com/drive/folders/1VqP6U9EYCxD6S0ayugP_YKb-GjzCZmW3)
 
 ### Connect with me
 <p align="left">
