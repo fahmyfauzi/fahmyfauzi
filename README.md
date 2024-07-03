@@ -4,7 +4,7 @@
 I am an Informatics Engineering graduate who has a high interest in the IT field, especially as a web developer. I have experience in web development using PHP with Laravel framework. I have contributed to several web development projects that involve implementing slicing from Figma to code, creating new features, maintaining code, debugging, and collaborating with the team. I am always eager to continue expanding my knowledge in IT and programming, in order to deliver the best results in every project.
 
 - 📫 How to reach me: fahmyfauzii@gmail.com
-- 📄 Know about my experiences [CV-Fahmy](https://drive.google.com/drive/folders/1VqP6U9EYCxD6S0ayugP_YKb-GjzCZmW3](https://drive.google.com/drive/folders/1VqP6U9EYCxD6S0ayugP_YKb-GjzCZmW3)
+- 📄 Know about my experiences [CV-Fahmy](https://drive.google.com/drive/folders/1VqP6U9EYCxD6S0ayugP_YKb-GjzCZmW3)
 
 ### Connect with me
 <p align="left">
